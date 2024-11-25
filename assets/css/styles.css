@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    font-family: Verdana, sans-serif;
+}
+
+.left-column {
+    width: 25%;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.main-content {
+    width: 75%;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.post-date {
+    color: gray;
+    font-size: 0.9em;
+}
